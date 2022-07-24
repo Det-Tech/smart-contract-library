@@ -1,0 +1,7 @@
+dist/
+node_modules/
+metadata/
+creds.json
+.env
+firebaseConfig.json
+serviceAccountKey.json
